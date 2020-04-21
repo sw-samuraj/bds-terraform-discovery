@@ -27,3 +27,12 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+
+# Environment variables with real values
+env-vars
+
+# IntelliJ Idea
+.idea/
+
+# OCI Terraform Provider
+terraform-provider-oci*

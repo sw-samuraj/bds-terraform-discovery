@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+export TF_VAR_tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaa.your.tenancy"
+export TF_VAR_user_ocid="ocid1.user.oc1..aaaaaaaa.your.user"
+export TF_VAR_fingerprint="a4:b3:ce:d9:e2:fa:gb:hc:i8:j9:k7:la:m2:n0:o0:p4"
+export TF_VAR_private_key_path="/home/user/.oci/oci_api_key.pem"
+export TF_VAR_private_key_password="very-secret-password-that-nobody-knows"
+export TF_VAR_region="us-ashburn-1"
