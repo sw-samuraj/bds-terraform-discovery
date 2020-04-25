@@ -2,7 +2,7 @@
 
 An example of Terraform discovery of the OCI Big Data Service resource.
 It's a supporting repository accompanying the article
-[Terraforming of OCI Big Data Service]().
+[Terraforming of OCI Big Data Service](//medium.com/@sw_samuraj/terraforming-of-oci-big-data-service-1e293328499).
 
 ## How to
 
@@ -58,4 +58,3 @@ tf-export
 
 0 directories, 4 files
 ```
-
