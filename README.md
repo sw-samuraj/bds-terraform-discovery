@@ -1,7 +1,7 @@
 # OCI Big Data Service Terraform discovery
 
-An example of Terraform discovery of the OCI Big Data Service resource.
-It's a supporting repository accompanying the article
+An example of Terraform discovery of the OCI _Big Data Service_ resource.
+It's an accompanying repository for the article
 [Terraforming of OCI Big Data Service](//medium.com/@sw_samuraj/terraforming-of-oci-big-data-service-1e293328499).
 
 ## How to
